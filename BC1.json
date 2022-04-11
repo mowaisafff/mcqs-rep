@@ -15,8 +15,8 @@
       { "option": "Awais", "isCorrect": false },
       { "option": "Anas", "isCorrect": true },
       { "option": "Ali", "isCorrect": false }
-      "detail": "Becaus Ali is not my brother"
-    ]
+    ],
+     "detail": "Because Ali is not my brother"
   },
   {
     "key": "1BC3",
