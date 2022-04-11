@@ -9,16 +9,17 @@
     ]
   },
    {
-    "key": "1BC1",
-    "Q": "What is your name?",
+    "key": "1BC2",
+    "Q": "What is your brother name?",
     "options": [
-      { "option": "Awais", "isCorrect": true },
-      { "option": "Anas", "isCorrect": false },
-      { "option": "Ahsan", "isCorrect": false }
+      { "option": "Awais", "isCorrect": false },
+      { "option": "Anas", "isCorrect": true },
+      { "option": "Ali", "isCorrect": false }
+      "detail": "Becaus Ali is not my brother"
     ]
   },
   {
-    "key": "1BC1",
+    "key": "1BC3",
     "Q": "What is your name?",
     "options": [
       { "option": "Awais", "isCorrect": true },
@@ -27,7 +28,7 @@
     ]
   },
    {
-    "key": "1BC1",
+    "key": "1BC4",
     "Q": "What is your name?",
     "options": [
       { "option": "Awais", "isCorrect": true },
@@ -36,7 +37,7 @@
     ]
   },
   {
-    "key": "1BC1",
+    "key": "1BC5",
     "Q": "What is your name?",
     "options": [
       { "option": "Awais", "isCorrect": true },
@@ -45,7 +46,7 @@
     ]
   },
    {
-    "key": "1BC1",
+    "key": "1BC6",
     "Q": "What is your name?",
     "options": [
       { "option": "Awais", "isCorrect": true },
